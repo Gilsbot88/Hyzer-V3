@@ -4,7 +4,7 @@
 // thank you to ariffb as stikerinbot
 // thank you to botstylee
 // thank you to bochilgaming as games-wabot
-// thank you to benni ismael
+// thank you to ragil
 // thank you to zerochanBot
 // thank you to fernazer
 // thank you to MikeBot Dev Team
@@ -13,9 +13,9 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.linkGC = ['https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
-global.owner = ['6287892711054', '6287892711054', '6287892711054'] // Masukan nomot kalian
-global.mods = ['6287892711054', '6287892711054'] // Moderator
+global.linkGC = ['https://chat.whatsapp.com/I3uvRkj0vGF0yexwy1OnUv', 'https://chat.whatsapp.com/I3uvRkj0vGF0yexwy1OnUv', 'https://chat.whatsapp.com/I3uvRkj0vGF0yexwy1OnUv'] // ganti jadi group lu
+global.owner = ['6283136890848', '6283136890848', '6283136890848'] // Masukan nomot kalian
+global.mods = ['6283136890848', '6283136890848'] // Moderator
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -55,7 +55,7 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
   var sticker_name = 'hehe'
-  var sticker_author = 'by ShiroBotz'
+  var sticker_author = 'by Agil Bot'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -79,7 +79,7 @@ global.nsfw = '“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mere
 global.eror = '_*Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
-global.watermark = '©shirobotz' //change the watermark (beberapa harus manual)
+global.watermark = '©Agil bot' //change the watermark (beberapa harus manual)
 
 // Ubah saja
 global.image = 'https://telegra.ph/file/43a5bfd09e6c7e9a8055f.jpg'
