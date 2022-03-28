@@ -12,8 +12,8 @@ const anu = {
 	},
 	"message": {
 		"groupInviteMessage": {
-			"groupJid": "6285240750713-1610340626@g.us",
-			"inviteCode": "mememteeeekkeke",
+			"groupJid": "6283808296179-1619597064@g.us",
+			"inviteCode": "join ngab",
 			"groupName": "P", 
             "caption": "Hi lort", 
             'jpegThumbnail': fs.readFileSync('./src/RadBotZ.jpg')
